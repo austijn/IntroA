@@ -23,6 +23,7 @@ img {
 /* Second image fades in during the last 2 seconds of img1's visibility */
 #img2 {
   opacity: 0; /* start invisible */
+  animation: img1Fade 5s ease forwards;
 }
 
 .continue {
