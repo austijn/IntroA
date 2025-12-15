@@ -12,6 +12,7 @@ document.addEventListener("click", function () {
 
   if (clickCount === 2) {
     // Second click: go to next site
-    window.location.href = "https://mekhiwashington.github.io/TheHospitalRoom/";
+    window.location.href = "https://github.com/austijn/TheHospitalRoomA";
   }
 });
+
