@@ -12,7 +12,8 @@ document.addEventListener("click", function () {
 
   if (clickCount === 2) {
     // Second click: go to next site
-    window.location.href = "https://github.com/austijn/TheHospitalRoomA";
+    window.location.href = "https://austijn.github.io/TheHospitalRoomA/";
   }
 });
+
 
